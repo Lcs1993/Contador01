@@ -15,6 +15,11 @@ public class Contador01 {
 			System.out.println("Cambalhota "+(cc));
 			
 		}
+		cc=0;
+		do {
+			System.out.println("cambalhota");
+			cc++;
+		} while (cc<4);
 
 	}
 
